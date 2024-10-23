@@ -1,4 +1,7 @@
-# Maquetar la Home de la Agencia de Diseño multimedial
-- Crear una array asociativo con las publicaciones en datos.php
-- Requerir el archivo datos.php
-- Recorrer el array en index.php y crear las publicaciones
+# 🎯 Temas de la Clase
+- Conexión con base de Datos
+- Lenguaje SQL
+- Formularios
+- Métodos POST y GET
+- Pasar datos por medio de GET
+- Consultas INSERT
